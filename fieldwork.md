@@ -13,7 +13,7 @@
 
 ### Photo 1: Security Guard Office
 
-![Security guard office](evidence/security-office.jpg)
+![Security guard office](evidence/security-office.jpeg)
 
 *Location: Hostel A/B, NIT Jamshedpur | Date: 17 November 2026 |*
 
@@ -21,7 +21,7 @@ This photograph documents the security guard's workplace, where the existing hos
 
 ### Photo 2: Closed Register
 
-![Closed register](evidence/closed-register.jpg)
+![Closed register](evidence/closed-register.jpeg)
 
 *Location: Hostel A/B, NIT Jamshedpur | Date: 17 November 2026 |*
 
